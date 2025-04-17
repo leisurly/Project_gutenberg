@@ -1,9 +1,6 @@
-# Project_gutenberg
+## 📁 Project Structure
 
-Project Structure
-
-
-‘‘‘ 
+```markdown
 Project_gutenberg
 ├── main.py                   ← 程式入口：搜尋並下載書籍
 ├── download.py               ← 負責下載書籍內容與儲存為 txt
@@ -13,5 +10,3 @@ Project_gutenberg
 ├── README.md                 ← 📘 使用說明與執行步驟
 ├── requirements.txt          ← ⚙️ 環境依賴清單（安裝套件用）
 └── project_gutenberg/        ← 📂 儲存下載下來的 txt 書籍檔案
-‘‘‘
-
